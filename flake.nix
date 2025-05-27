@@ -72,7 +72,7 @@
             babel
             microtype
             fontspec
-            unicrode-math
+            unicode-math
             polyglossia
             biblatex
             csquotes

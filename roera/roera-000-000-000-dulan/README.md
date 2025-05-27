@@ -54,8 +54,8 @@ As described in [ROGOV-0](../../rogov/roera-000-000-000-dulan/rogov-000-000-000/
 ### [ROROAD](../../roroad/roera-000-000-000-dulan/README.md)
 - **[ROROAD-0](../../roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md)**
 
-### [OLOG](../../rolog/roera-000-000-000-dulan/README.md)
-- **[OLOG-0](../../rolog/roera-000-000-000-dulan/rolog-000-000-000/README.md)**
+### [ROLOG](../../rolog/roera-000-000-000-dulan/README.md)
+- **[ROLOG-0](../../rolog/roera-000-000-000-dulan/rolog-000-000-000/README.md)**
 
 ### [ROGUIDE](../../roguide/roera-000-000-000-dulan/README.md)
 - **[ROGUIDE-0](../../roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md)**

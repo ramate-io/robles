@@ -42,7 +42,7 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - [`rospec`](./rospec): OACSpecifications (OPSEC) describe specifications and are typically written in response to RODE. Generally, contributors should use OPSEC to justify non-trivial changes to this repository.
 - [`roart`](./roart/): OAC Articles (ROART) are academic papers which form the conceptual backbone of the OAC paradigm.
 - [`roroad`](./roroad/): OAC Roadmaps (ROROAD) are roadmaps describing the intents and objectives of the OAC organization.
-- [`rolog`](./rolog/): OAC Logs (OLOG) are periodically submitted logs describing various developments within the OAC paradigm.
+- [`rolog`](./rolog/): OAC Logs (ROLOG) are periodically submitted logs describing various developments within the OAC paradigm.
 - [`roguide`](./roguide/): OAC Guides (ROGUIDE) are guides or summaries of OAC.
 - [`ropre`](./ropre/): OAC Presentations (ROPRE) are presentations about OAC.
 - [`rodemo`](./rodemo/): OAC Demonstrations (RODEMO) are selected demonstrations and/or projects built with OAC.
