@@ -24,7 +24,21 @@
   Robles
 </h1>
 
-WIP! We're renovating this repository!
+Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://github.com/ramate-io/oac).
+
+<div align="center">
+  <picture>
+    <source srcset="./assets/robles-stack-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img src="./assets/robles-stack-transparent.png" alt="Robles Stack" height="120">
+  </picture>
+</div>
+
+Robles currently consists of the foundational implementations anticipated by [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md):
+
+- **[`gwrdfa`](https://github.com/ramate-io/gwrdfa):** an implementation of **[ROART-1: BFA](https://github.com/ramate-io/oac/blob/main/roart/roera-000-000-000-dulan/roart-000-000-001-bfa/README.md)** protocol substack. This forms the basis for high-throughput and large footprint OAC applications.
+- **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **[ROART-2: Collaborative Transaction Routing](https://github.com/ramate-io/oac/blob/main/roart/roera-000-000-000-dulan/roart-000-000-002-ctr/README.md)** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
+- **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
+- **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **[ROART-3: RIS-STM](https://github.com/ramate-io/oac/blob/main/roart/roera-000-000-000-dulan/roart-000-000-003-ris-stm/README.md)**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
 
 ## Contributing
 
