@@ -32,8 +32,8 @@ Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://
     <source srcset="./assets/robles-stack-inverted-transparent.png" media="(prefers-color-scheme: dark)">
     <img src="./assets/robles-stack-transparent.png" alt="Robles Stack" height="300">
   </picture>
-  <br/>
 </div>
+<br/>
 
 Robles currently consists of the foundational implementations anticipated by [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md):
 
