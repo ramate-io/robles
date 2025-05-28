@@ -29,7 +29,7 @@ Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://
 <div align="center">
   <picture>
     <source srcset="./assets/robles-stack-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img src="./assets/robles-stack-transparent.png" alt="Robles Stack" height="120">
+    <img src="./assets/robles-stack-transparent.png" alt="Robles Stack" width="100%">
   </picture>
 </div>
 
