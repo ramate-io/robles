@@ -9,19 +9,25 @@ OAC Guides (ROGUIDE) provide useful guides and summaries of OAC.
 ---
 
 <div align="center">
-  <a href="https://github.com/ramate-io/oac">
-    <picture>
-      <source srcset="/assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/oac-transparent.png" alt="OAC"/>
-    </picture>
-  </a>
+  <picture>
+    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
+  </picture>
+  <picture>
+    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+  </picture>
+  <picture>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+  </picture>
   <br/>
   <sub>
-    <b>Ordered Atomic Collaboration (OAC)</b>
+    <b>Robles</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/oac">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/robles">ramate-io/robles</a>
     <br/>
-    <a href="https://github.com/ramate-io/oac/blob/main/LICENSE">MIT License</a>
+    <a href="https://github.com/ramate-io/robles/blob/main/LICENSE">MIT License</a>
     <br/>
     <a href="https://www.ramate.io">ramate.io</a>
   </sub>
