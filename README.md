@@ -34,6 +34,9 @@ Robles currently consists of the foundational implementations anticipated by [OR
 - **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
 - **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **[ROART-3: RIS-STM](https://github.com/ramate-io/oac/blob/main/roart/roera-000-000-000-dulan/roart-000-000-003-ris-stm/README.md)**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
 
+> [!NOTE]
+> The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
+
 ## Contributing
 
 | Task | Description |
@@ -51,7 +54,7 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - [`roera`](./roera): Robles Eras (ROERA) are the periods over which a governing body makes decisions. All other Robles [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) are indexed by ROERA.
 - [`roglo`](./roglo/): Robles Glosses (ROGLO) are defined terms for Robles.
 - [`roproc`](./opurp/): Robles Proclamations (ROPROC) are statements of purpose for Robles.
-- [`rogov`](./rogov/): Robles Governance (ROGOV) are constitutions of, procedures for, and interpretations of Robles governance.
+- [`rogov`](./rogov/): Robles Governance (ROGOV) are constitutions of, procedures for, and interpretations of Robles governance. These are, roughly speaking, bylaws to [OGOV](https://github.com/ramate-io/oac/tree/main/ogov) and [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov).
 - [`roleg`](./roleg/): Robles Legal Documents (ROLEG) are published legal documents covering Robles operations in any jurisdiction.
 - [`rocert`](./rocert/): Robles Certificates (ROCERT) certify a given project as abiding by the Robles paradigm.
 - [`rode`](./rode/): Robles Desiderata (RODE) describe wants, open problems, and similar within the Robles paradigm.
