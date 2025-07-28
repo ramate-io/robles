@@ -5,18 +5,10 @@ Description of ROCERT.
 ## [ROCERT: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
 **[ROCERT-0: OAC](/rocert/roera-000-000-000-dulan/rocert-000-000-000-oac/README.md):** self-certifies this repository.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
-  <picture>
-    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
-  </picture>
-  <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
-  </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
     <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
