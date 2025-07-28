@@ -46,7 +46,7 @@ OAC de-emphasizes perfect consensus. The primary motive of OAC is to track state
 ### What would be built with OAC?
 When used carefully, we believe OAC can supplant traditional and popular decentralized and distributed compute under requirements such as smart execution and state machine replication. However, OAC's long-term ambitions lie in machine-to-machine communication. We believe OAC can be used to help solve challenging problems in AI alignment, dPIN verification, and decentralized swarm coordination.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
@@ -55,8 +55,8 @@ When used carefully, we believe OAC can supplant traditional and popular decentr
     <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">

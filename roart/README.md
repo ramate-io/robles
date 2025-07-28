@@ -5,7 +5,7 @@ Description of ROART.
 ## [ROART: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
 - **[ROART-0](/roart/roera-000-000-000-dulan/roart-000-000-000-byzantine-generals/README.md):** describes the relevance of Lamport et al., 1972, The Byzantine General Problem.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
@@ -14,8 +14,8 @@ Description of ROART.
     <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">

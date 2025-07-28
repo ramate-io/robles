@@ -4,7 +4,7 @@
 ## [ROROAD: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
 - **[ROROAD-0](/roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md):** the initial roadmap for OAC.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
@@ -13,8 +13,8 @@
     <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">

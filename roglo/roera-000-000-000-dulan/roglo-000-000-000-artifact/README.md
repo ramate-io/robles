@@ -22,7 +22,7 @@ All other artifacts are either "Proposed" or "Revoked" and their status is refle
 ## Appendix
 $\emptyset$
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
@@ -31,8 +31,8 @@ $\emptyset$
     <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">

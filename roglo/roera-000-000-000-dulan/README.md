@@ -3,7 +3,7 @@
 ## ROGLOs
 - **[ROGLO-0: Artifact](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md):** defines the term Artifact which refers to the various O* documents.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
@@ -12,8 +12,8 @@
     <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
