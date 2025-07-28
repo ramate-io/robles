@@ -10,14 +10,6 @@ The current era is [ROERA-0: Dulan](./roera-000-000-000-dulan/README.md).
 
 <div align="center">
   <picture>
-    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
-  </picture>
-  <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
-  </picture>
-  <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
     <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>

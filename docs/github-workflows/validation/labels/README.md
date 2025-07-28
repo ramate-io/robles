@@ -16,14 +16,6 @@ The labels worfklow will delete additional labels when run on `main` or when the
 
 <div align="center">
   <picture>
-    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
-  </picture>
-  <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
-  </picture>
-  <picture>
     <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
     <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
   </picture>
