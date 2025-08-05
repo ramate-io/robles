@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## ROPREs
-- **[ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md):** an introduction to OAC for the prrospective contributor.
+- **[ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md):** an introduction to OAC for the prospective contributor.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
