@@ -10,7 +10,7 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-The linked deck and presentation represent the initial technical pitch circulate amongst prrospective contributors to OAC.
+The linked deck and presentation represent the initial technical pitch circulate amongst prospective contributors to OAC.
 
 The presentation describes the aspirations of OAC, its early conceptual foundations, and its organization.
 

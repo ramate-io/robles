@@ -58,7 +58,7 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - [`roleg`](./roleg/): Robles Legal Documents (ROLEG) are published legal documents covering Robles operations in any jurisdiction.
 - [`rocert`](./rocert/): Robles Certificates (ROCERT) certify a given project as abiding by the Robles paradigm.
 - [`rode`](./rode/): Robles Desiderata (RODE) describe wants, open problems, and similar within the Robles paradigm.
-- [`rospec`](./rospec): Robles Specifications (ROSPEC) describe specifications and are typically written in response to RODE. Generally, contributors should use Rospec to justify non-trivial changes to this repository.
+- [`rospec`](./rospec): Robles Specifications (ROSPEC) describe specifications and are typically written in response to RODE. Generally, contributors should use ROSPEC to justify non-trivial changes to this repository.
 - [`roart`](./roart/): Robles Articles (ROART) are academic papers which generally add implementation-specific theoretical considerations to [OART](https://github.com/ramate-io/oac/tree/main/oart).
 - [`roroad`](./roroad/): Robles Roadmaps (ROROAD) are roadmaps describing the intents and objectives of the Robles project
 - [`rolog`](./rolog/): Robles Logs (ROLOG) are periodically submitted logs describing various developments within the Robles paradigm.

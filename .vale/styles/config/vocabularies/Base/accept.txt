@@ -39,3 +39,17 @@ pipelining
 Thro
 walkthrough
 implementer
+ROARTs
+ROCERTs
+RODEs
+RODEMOs
+ROGLOs
+ROGOVs
+ROGUIDEs
+ROLEGs
+ROPREs
+ROROADs
+ROERAs
+ROSPECs
+ROLOGs
+ROPROCs
