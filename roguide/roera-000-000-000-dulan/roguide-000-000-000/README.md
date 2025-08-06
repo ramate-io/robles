@@ -7,15 +7,7 @@
   - **[Appendix](#appendix)**
 
 ## Guide
-OAC is just beginning as a project! We use a system for grouping work by periods we call [OAC Eras (ROERA)](../../../roera/). The current era is [ROERA-0: Dulan](../../../roera/roera-000-000-000-dulan/README.md) and is our very first.
-
-To kick off the **Dulan Era**, we made a proclamation about our intent to build systems of "decentralized consequence" called [ROPROC-0: Decentralized Consequence](../../../roproc/roera-000-000-000-dulan/roproc-000-000-000/README.md). This proclamation is key to understanding the motives behind this project. Read it!
-
-From [ROPROC-0: Decentralized Consequence](../../../roproc/roera-000-000-000-dulan/roproc-000-000-000/README.md), we produced a roadmap, [ROROAD-0: The Attempt](../../../roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md), for validating the foundational concepts of the project. We recommend you read [ROROAD-0: The Attempt](../../../roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md) to understand how the project is being pursued.
-
-Once you've familiarized yourself with [ROPROC-0: Decentralized Consequence](../../../roproc/roera-000-000-000-dulan/roproc-000-000-000/README.md) and [ROROAD-0: The Attempt](../../../roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md), take the time to read through the [ROART index](../../../roart/). OAC is a conceptually oriented project--intended almost like a journal or academic institution; ROART are our key conceptual outputs.
-
-Once you've done the above, you should have a strong enough sense of the project to explore at will! Welcome aboard!
+Robles is an implementation of [OAC](https://github.com/ramate-io/oac). At the time of writing, we recommend simply following [OGUIDE-0](https://github.com/ramate-io/oac/tree/main/oguide/oera-000-000-000-dulan/oguide-000-000-000), then returning to consider each of the linked implementations.
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
