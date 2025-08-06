@@ -1,7 +1,7 @@
 # ROART: ROERA-0: Dulan
 
 ## ROARTs
-- **[ROART-0](/roart/roera-000-000-000-dulan/roart-000-000-000-byzantine-generals/README.md):** describes the relevance of Lamport et al., 1972, The Byzantine General Problem.
+- **[ROART-0](/roart/roera-000-000-000-dulan/roart-000-000-000-survey-of-embedded-coroutines/):** surveys the implementation of coroutines in embedded systems.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
