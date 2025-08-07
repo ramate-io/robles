@@ -10,10 +10,10 @@
 Robles is an implementation of [OAC](https://github.com/ramate-io/oac). At the time of writing, we recommend simply following [OGUIDE-0](https://github.com/ramate-io/oac/tree/main/oguide/oera-000-000-000-dulan/oguide-000-000-000), then returning to consider each of the linked implementations.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$
@@ -23,8 +23,8 @@ $\emptyset$
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>

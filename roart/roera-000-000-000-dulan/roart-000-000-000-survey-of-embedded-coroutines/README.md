@@ -20,20 +20,22 @@
 ## Justification
 [A Survey of Asynchronous Programming Using Coroutines in the Internet of Things and Embedded Systems](./survey-of-asynchronous-programming.pdf) is primarily included as an example for the ROART format. However, it is indeed a useful reference for literature on asynchronous programming in embedded systems.
 
-## Appendix
+## Agreeing
 $\emptyset$
 
-## Agreeing
-
 ## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>

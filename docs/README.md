@@ -10,8 +10,8 @@ We have documented the following features:
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>

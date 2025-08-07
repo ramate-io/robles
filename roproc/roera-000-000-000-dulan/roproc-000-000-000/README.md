@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
-  - **[Documents](#documents)**
+  - **[Proclamation](#proclamation)**
   - **[Agreeing](#agreeing)**
   - **[Dissenting](#dissenting)**
   - **[Appendix](#appendix)**
@@ -15,13 +15,22 @@ Robles is a high-quality implementation of [OAC](https://github.com/ramate-io/oa
 
 Shoddy implementations are not for Robles.
 
+## Agreeing
+$\emptyset$
+
+## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
+
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>

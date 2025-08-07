@@ -13,7 +13,7 @@
 ## Terms
 - **Contents:**
     - **[T1](#t1-self-endorsement):** Self-endorsement
-    - **[T2](#t2-correctness-of-oac-main):** Correctness of [Robles](https://github.com/ramate-io/oac) `main`
+    - **[T2](#t2-correctness-of-robles-main):** Correctness of [Robles](https://github.com/ramate-io/robles) `main`
 
 ### T1: Self-endorsement
 We hereby endorse this, the [Robles](https://github.com/ramate-io/robles) repository, as developer and arbiter of the OAC paradigm.
@@ -35,10 +35,10 @@ We stipulate that the validity of this certificate is subject to [ROGOV](../../.
 We stipulate that the validity of this certificate depends upon its continued presence at the tip of [Robles](https://github.com/ramate-io/robles) repository's `main` branch. This certificate is an [Artifact](../../../roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) which becomes invalid when no longer included.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$
@@ -48,8 +48,8 @@ $\emptyset$
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>
