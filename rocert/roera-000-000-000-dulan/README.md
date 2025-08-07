@@ -1,15 +1,15 @@
 # OE-0: Dulan
 
 ## ROCERTs
-**[ROCERT-0: OAC](/rocert/roera-000-000-000-dulan/rocert-000-000-000-oac/README.md):** self-certifies this repository.
+**[ROCERT-0: Robles](/rocert/roera-000-000-000-dulan/rocert-000-000-000-robles/README.md):** self-certifies this repository.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>

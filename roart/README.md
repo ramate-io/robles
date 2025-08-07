@@ -3,15 +3,15 @@ Description of ROART.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROART: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
-- **[ROART-0](/roart/roera-000-000-000-dulan/roart-000-000-000-byzantine-generals/README.md):** describes the relevance of Lamport et al., 1972, The Byzantine General Problem.
+- **[ROART-0](/roart/roera-000-000-000-dulan/roart-000-000-000-survey-of-embedded-coroutines/):** surveys the implementation of coroutines in embedded systems.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
   <picture>
-    <source srcset="./assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/robles-transparent.png" alt="Robles"/>
+    <source srcset="/assets/robles-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="/assets/robles-transparent.png" alt="Robles"/>
   </picture>
   <br/>
   <sub>
