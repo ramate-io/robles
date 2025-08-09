@@ -1,8 +1,8 @@
-# ROPRE-0: Initial Pitch
+# ROPRE-0: Robles
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
-- **Deck:** [ROPRE-0](https://docs.google.com/presentation/d/16Vaat7X2z5lplTmRi-dVR2EgKFlJKq3q6WenoNqSrVo/edit?usp=sharing)
-- **Deck Copy:** [ROPRE-0](./OPRE-0_%20Ordered%20Atomic%20Collaboration.pdf)
-- **Recording:** [ROPRE-0: Brief Discussion of OAC](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93)
+- **Deck:** [ROPRE-0: Robles](https://docs.google.com/presentation/d/1FW4oJksHwqBiKS0he6Yh6sYp_z-wK9rUsF8f9gpVS-4/edit?usp=sharing)
+- **Deck Copy:** [ROPRE-0: Robles](./ROPRE-0_%20Robles.pdf)
+- **Recording:** [ROPRE-0: Robles](https://www.loom.com/share/c822746494d74a109bdbf9689577e171?sid=28a7a16f-e176-44cd-bf9e-d4b3f7eb842d)
 - **Contents:**
   - **[Summary](#summary)**
   - **[Agreeing](#agreeing)**
@@ -10,19 +10,7 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-The linked deck and presentation represent the initial technical pitch circulate amongst prospective contributors to OAC.
-
-The presentation describes the aspirations of OAC, its early conceptual foundations, and its organization.
-
-> [!TIP]
-> **[[Liam Monninger]](mailto:liam@ramate.io)**
->
-> In addition to the short-form linked above, an original longer-form pitch is available at [ROPRE-0: Extended Discussion of OAC](https://www.loom.com/share/3f38153268824a22b4efdd65e453cc40?sid=44f2f12d-b5fe-47fe-8316-691fb084280e). I highly recommended the more conceptually oriented and serious contributors view the ramblings therein.
-
-> [!WARNING]
-> **[[Liam Monninger]](mailto:liam@ramate.io)**
->
-> I am not using "pitch" here in a particularly business- or venture-oriented sense. I'm simply referring to describing a concept. OAC itself is not foremost
+The linked deck and presentation provide an introduction to Robles which focuses on its conceptual motivation and organization.
 
 ## Agreeing
 $\emptyset$
