@@ -3,6 +3,7 @@ Description of RODEMO.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RODEMO: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
+- **[RODEMO-0: The Robles Repository](/rodemo/roera-000-000-000-dulan/rodemo-000-000-000/):** demonstrates the use of this repository.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
