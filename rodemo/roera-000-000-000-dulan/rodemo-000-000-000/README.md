@@ -1,4 +1,4 @@
-# RODEMO-0: Demonstrating the OAC Repository
+# RODEMO-0: The Robles Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Recording:** [RODEMO-0: The Robles Repository](https://www.loom.com/share/3655aed27b0047a99f175dad4fa02dcf?sid=7217489b-d3d5-487e-aced-dc3fa01790a6)
 - **Transcript:** [Transcript](./Transcript.md)
@@ -7,7 +7,7 @@
   - **[Demo](#demo)**
 
 ## Summary
-This demo covers the usage of the Ramate repository by contributors.
+This demo covers the usage of the Robles repository by contributors.
 
 ## Demo
 
