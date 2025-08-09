@@ -1,10 +1,22 @@
-# ROPROC-0: Decentralized Consequence
+# RODEMO-0: Demonstrating the OAC Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
+- **Recording:** [RODEMO-0: The Robles Repository](https://www.loom.com/share/3655aed27b0047a99f175dad4fa02dcf?sid=7217489b-d3d5-487e-aced-dc3fa01790a6)
+- **Transcript:** [Transcript](./Transcript.md)
+- **Contents:**
+  - **[Summary](#summary)**
+  - **[Demo](#demo)**
 
 ## Summary
-Ordered Atomic Collaboration is a paradigm for decentralized consequence. OAC differs from traditional and popular decentralized and distributed compute in its emphasis on structures for penalization as opposed to perfect consensus. We believe OAC can be used to replace traditional DLT applications. However, OAC's long-term ambitions lie in the decentralized coordination of swarms.
+This demo covers the usage of the Ramate repository by contributors.
 
-## Proclamation
+## Demo
+
+- **[Copies OAC and Ramate](#copies-oac-and-ramate)**
+
+### Copies OAC and Ramate
+- **Timestamped links:** [00:00](https://www.loom.com/share/3655aed27b0047a99f175dad4fa02dcf?sid=f3669d25-af08-4f73-a22c-9da9921d1ed4)
+
+This repository copies the same setup as described in [ODEMO-0](https://github.com/ramate-io/oac/tree/main/odemo/oera-000-000-000-dulan/odemo-000-000-000) and uses the organizational principles described in [RDEMO-0](https://github.com/ramate-io/ramate/tree/main/rdemo/rera-000-000-000-dulan/rdemo-000-000-000). Please review them.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
