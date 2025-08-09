@@ -1,6 +1,7 @@
 # OE-0: Dulan
 
 ## RODEMOs
+- **[RODEMO-0: The Robles Repository](/rodemo/roera-000-000-000-dulan/rodemo-000-000-000/):** demonstrates the use of this repository.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
