@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## ROPREs
-- **[ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md):** an introduction to OAC for the prospective contributor.
+- **[ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md):** describes the Robles project, emphasizing the conceptual foundations for its organization.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---

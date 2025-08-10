@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## ROPROCs
-- **[ROPROC-0](/roproc/roera-000-000-000-dulan/roproc-000-000-000/README.md):** an aspirational statement of initial intent for OAC: building decentralized consequence.
+- **[ROPROC-0](/roproc/roera-000-000-000-dulan/roproc-000-000-000/README.md):** a brief statement to the intended quality of Robles.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
