@@ -27,6 +27,9 @@ Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://
 </div>
 <br/>
 
+> [!TIP]
+> For those new to Robles, we recommending following **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md)**.
+
 Robles currently consists of the foundational implementations anticipated by [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md):
 
 - **[`gwrdfa`](https://github.com/ramate-io/gwrdfa):** an implementation of **OART-2: BFA** protocol substack. This forms the basis for high-throughput and large footprint OAC applications.

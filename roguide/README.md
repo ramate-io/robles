@@ -3,7 +3,7 @@ OAC Guides (ROGUIDE) provide useful guides and summaries of OAC.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROGUIDE: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
-- **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
+- **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md):** provides a general and early-stage onboarding to Robles.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---

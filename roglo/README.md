@@ -3,7 +3,7 @@ Description of ROGLO
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROGLO: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
-- **[ROGLO-0: Artifact](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md):** defines the term Artifact which refers to the various O* documents.
+- **[ROGLO-0: Artifact](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md):** defines the term Artifact.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---

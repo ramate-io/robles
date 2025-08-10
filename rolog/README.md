@@ -2,7 +2,7 @@
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROLOG: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
-- **[ROLOG-0](/rolog/roera-000-000-000-dulan/rolog-000-000-000/README.md):** some playing around with combinatorics from BFA paper for [ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md) and similar.
+- **[ROLOG-0](/rolog/roera-000-000-000-dulan/rolog-000-000-000/README.md):** comments on the separation of OAC and Robles.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---

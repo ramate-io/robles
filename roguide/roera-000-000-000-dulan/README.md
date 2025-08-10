@@ -2,7 +2,7 @@
 [ROERA-0: Dulan](../../roera/roera-000-000-000-dulan/README.md) introduces of the first ROGUIDE, [ROGUIDE-0](./roguide-000-000-000/README.md) which describes the initial drive towards decentralized consequence and the suggested foundational papers.
 
 ## ROGUIDEs
-- **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
+- **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md):** provides a general and early-stage onboarding to Robles.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
