@@ -8,8 +8,29 @@
     - **[Appendix](#appendix)**
 
 ## Summary
+For its initial roadmap, Robles will simply follow [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md).
 
 ## Roadmap
+- **All leads:** [Liam Monninger](mailto:liam@ramate.io)
+- **Contents:**
+  - **[T1: Complete OROAD-0](#t1-complete-oroad-0)**
+
+### T1: Complete OROAD-0
+> [!IMPORTANT]
+> **T1** is where we put some meat on the bone by pursuing **[OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md)**
+
+- **Starts:** T1 + 0 months
+- **Depends on:** $\emptyset$
+- **Ends:** T1 + 9 Months
+- **Contents:**
+  - **[T1.1](#t11-complete-oroad-0):** Complete OROAD-0
+
+**T1** seeks the completion of [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md). [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) contains descriptions of Robles-specific projects
+
+#### T1.1: Complete OROAD-0
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Complete [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md).
 
 ## Agreeing
 $\emptyset$
