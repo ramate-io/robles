@@ -17,7 +17,7 @@
 ## Naming
 
 ## Governance
-As described in [ROGOV-0](/rogov/roera-000-000-000-dulan/rogov-000-000-000/README.md), in the Dulan Era, the defined governance of Robles concerns the acceptance of [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and the linked implementations.
+As described in [ROGOV-0](/rogov/roera-000-000-000-dulan/rogov-000-000-000/README.md), in the Dulan Era, the defined governance of Robles concerns the acceptance of [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and the [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-027-stack-member/README.md).
 
 ## Artifacts
 
