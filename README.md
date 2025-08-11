@@ -69,6 +69,12 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - [`ropre`](./ropre/): Robles Presentations (ROPRE) are presentations about Robles.
 - [`rodemo`](./rodemo/): Robles Demonstrations (RODEMO) are selected demonstrations and/or projects built with Robles.
 
+### Stack Members
+- **[`gwrdfa`](https://github.com/ramate-io/gwrdfa):** an implementation of **OART-2: BFA** protocol substack. This forms the basis for high-throughput and large footprint OAC applications.
+- **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **OART-3: Collaborative** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
+- **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
+- **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **OART-4: RIS-STM**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
+
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 

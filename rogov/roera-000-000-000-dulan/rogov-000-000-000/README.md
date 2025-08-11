@@ -10,23 +10,23 @@
     - **[Appendix](#appendix)**
 
 ## Summary
-We establish that the objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and linked implementations. [Ramate LLC](https://www.ramate.io) controls these artifacts.
+We establish that the objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-029-stack-member/README.md). [Ramate LLC](https://www.ramate.io) controls these artifacts.
 
 ## Continuity
 As the first ROGOV, this document does not establish continuity with any previous regime.
 
 ## Measures
 - **Contents**
-    - **[M1](#m1-the-objects-of-governance-are-artifacts-and-linked-implementations):** The objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and linked implementations.
+    - **[M1](#m1-the-objects-of-governance-are-artifacts-and-stack-members):** The objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-029-stack-member/README.md).
     - **[M2](#m2-ramate-llc-is-the-governing-body):** [Ramate LLC](https://www.ramate.io) is the governing body.
 
-### M1: The objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and linked implementations.
+### M1: The objects of governance are [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) and [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-029-stack-member/README.md).
 The governing body SHALL make decisions on the inclusion of [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) in this repository. This inclusion SHALL take the form of accepting [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) which add to the artifact set. The [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) on the `main` branch of this repository SHALL be regarded as included.
 
-The governing body SHALL additionally make decisions on the details of linked implementations of the described protocols.
+The governing body SHALL additionally make decisions on the details of [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-029-stack-member/README.md) of the described protocols.
 
 ### M2: [Ramate LLC](https://www.ramate.io) is the governing body.
-[Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-the-objects-of-governance-are-artifacts-and-linked-implementations) as it sees fit.
+[Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-the-objects-of-governance-are-artifacts-and-stack-members) as it sees fit.
 
 > [!NOTE]
 >
