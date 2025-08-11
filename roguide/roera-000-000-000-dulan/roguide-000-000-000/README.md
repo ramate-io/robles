@@ -11,7 +11,7 @@ Robles is an implementation of [OAC](https://github.com/ramate-io/oac).
 
 Please review [ROPRE-0](/ropre/roera-000-000-000-dulan/ropre-000-000-000/README.md) for an overview of the project. Then, watch [RODEMO-0](/rodemo/roera-000-000-000-dulan/rodemo-000-000-000/README.md) to learn how to work with the repository.
 
-Once you've gained initial familiarity, we recommend developing a deeper conceptual understanding by reviewing [OGUIDE-0](https://github.com/ramate-io/oac/tree/main/oguide/oera-000-000-000-dulan/oguide-000-000-000), then returning to consider each of the [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-029-stack-member/README.md).
+Once you've gained initial familiarity, we recommend developing a deeper conceptual understanding by reviewing [OGUIDE-0](https://github.com/ramate-io/oac/tree/main/oguide/oera-000-000-000-dulan/oguide-000-000-000), then returning to consider each of the [Stack Members](/roglo/roera-000-000-000-dulan/roglo-000-000-027-stack-member/README.md).
 
 ## Agreeing
 $\emptyset$
