@@ -1,5 +1,6 @@
 # ROCERT
-Description of ROCERT.
+
+Robles Certificates (ROCERT) certify a given project as abiding by the Robles paradigm.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROCERT: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

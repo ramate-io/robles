@@ -1,5 +1,6 @@
 # RODE
-Description of RODE.
+
+Robles Desiderata (RODE) describe wants, open problems, and similar within the Robles paradigm.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RODE: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

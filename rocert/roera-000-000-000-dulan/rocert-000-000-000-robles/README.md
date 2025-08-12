@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](liam@ramate.io)
 - **Holder:** [OAC](https://github.com/ramate-io/oac)
 - **Pubkey:** [`cafe3368`](./pub.key)
-- **Original issuer:** [ROGOV-O: Founding](../../../rogov/roera-000-000-000-dulan/rogov-000-000-000/README.md)
+- **Original issuer:** [ROGOV-0: Founding](../../../rogov/roera-000-000-000-dulan/rogov-000-000-000/README.md)
 - **Contents:**
     - **[Terms](#terms)**
     - **[Conditions](#conditions)**
@@ -19,9 +19,11 @@
 We hereby endorse this, the [Robles](https://github.com/ramate-io/robles) repository, as developer and arbiter of the OAC paradigm.
 
 ### T2: Correctness of [Robles](https://github.com/ramate-io/robles) `main`
+<!-- ltex: enabled=false -->
 We hereby certify all content under [Robles](https://github.com/ramate-io/robles) repository on its `main` branch is a correct representation of the OAC paradigm.
+<!-- ltex: enabled=true -->
 
-Pursuant to [T1](#t1-self-endorsement), we certify whatever content is on its `main` branch is correct, owing the to reflexive nature of this certificate.
+Pursuant to [T1](#t1-self-endorsement), we certify whatever content is on its `main` branch is correct, owing to the reflexive nature of this certificate.
 
 ## Conditions
 - **Contents:**

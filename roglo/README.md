@@ -1,5 +1,6 @@
 # ROGLO
-Description of ROGLO
+
+Robles Glosses (ROGLO) are defined terms for Robles.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROGLO: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

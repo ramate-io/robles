@@ -1,7 +1,7 @@
 # Contributing
 We recommend those new to the paradigm review the latest [ROGUIDE](./roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md).
 
-The primary output of this project is this repository's [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md). How to produce these [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) is specified in [ROSPEC-0](./rospec/roera-000-000-000-dulan/rospec-000-000-000/README.md). Meanwhile [RODEMO-0](./rodemo/roera-000-000-000-dulan/rodemo-000-000-000/README.md) provides an interactive walkthrough of this repository which may be more suitable.
+The primary output of this project is this repository's [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md). How to produce these [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) is specified in [ROSPEC-0](./rospec/roera-000-000-000-dulan/rospec-000-000-000/README.md). Meanwhile, [RODEMO-0](./rodemo/roera-000-000-000-dulan/rodemo-000-000-000/README.md) provides an interactive walkthrough of this repository which may be more suitable.
 
 To produce and maintain these [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md), we ideate in [Discussions](https://github.com/ramate-io/oac/discussions) and plan work in [Issues](https://github.com/ramate-io/oac/issues). Discussions are free-form. Issues follow the structure below:
 
