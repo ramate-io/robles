@@ -1,5 +1,6 @@
 # ROGOV
-Description of ROGOV
+
+Robles Governance (ROGOV) are constitutions of, procedures for, and interpretations of Robles governance. These are, roughly speaking, bylaws to [OGOV](https://github.com/ramate-io/oac/tree/main/ogov) and [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov).
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROGOV: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

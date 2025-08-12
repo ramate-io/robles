@@ -1,5 +1,7 @@
 # ROROAD
 
+Robles Roadmaps (ROROAD) are roadmaps describing the intents and objectives of the Robles project.
+
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROROAD: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
 - **[ROROAD-0](/roroad/roera-000-000-000-dulan/roroad-000-000-000/README.md):** the initial roadmap for Robles.

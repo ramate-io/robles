@@ -1,6 +1,6 @@
 # ROART
-Description of ROART.
-Though the dog likes to bark loudly.
+
+Robles Articles (ROART) are academic papers which generally add implementation-specific theoretical considerations to [OART](https://github.com/ramate-io/oac/tree/main/oart).
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROART: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

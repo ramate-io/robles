@@ -1,5 +1,6 @@
 # ROERA
-OAC Eras (ROERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](../roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) are indexed by ROERA.
+
+Robles Eras (ROERA) are the periods over which a governing body makes decisions. All other Robles [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) are indexed by ROERA.
 
 The current era is [ROERA-0: Dulan](./roera-000-000-000-dulan/README.md).
 

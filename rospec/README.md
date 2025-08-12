@@ -1,5 +1,7 @@
 # ROSPEC
 
+Robles Specifications (ROSPEC) describe specifications and are typically written in response to RODEs. Generally, contributors should use ROSPEC to justify non-trivial changes to this repository.
+
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROSPEC: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
 - **[ROSPEC-0](/rospec/roera-000-000-000-dulan/rospec-000-000-000/README.md):** a specification for how to use and maintain this repository.

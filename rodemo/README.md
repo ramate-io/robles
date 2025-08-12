@@ -1,5 +1,6 @@
 # RODEMO
-Description of RODEMO.
+
+Robles Demonstrations (RODEMO) are selected demonstrations and/or projects built with Robles.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RODEMO: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)

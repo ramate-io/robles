@@ -54,7 +54,8 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) file for additional contribution g
 
 ### Artifacts
 Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md), this subsection defines the recognized artifact types. We recognize the following types:
-- [`roera`](./roera): Robles Eras (ROERA) are the periods over which a governing body makes decisions. All other Robles [Artifacts](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) are indexed by ROERA.
+
+- [`roera`](./roera): Robles Eras (ROERA) are the periods over which a governing body makes decisions. All other Robles [Artifacts](/roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/README.md) are indexed by ROERA.
 - [`roglo`](./roglo/): Robles Glosses (ROGLO) are defined terms for Robles.
 - [`roproc`](./roproc/): Robles Proclamations (ROPROC) are statements of purpose for Robles.
 - [`rogov`](./rogov/): Robles Governance (ROGOV) are constitutions of, procedures for, and interpretations of Robles governance. These are, roughly speaking, bylaws to [OGOV](https://github.com/ramate-io/oac/tree/main/ogov) and [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov).

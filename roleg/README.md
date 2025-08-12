@@ -1,5 +1,6 @@
 # ROLEG
-Description of ROLEG.
+
+Robles Legal Documents (ROLEG) are published legal documents covering Robles operations in any jurisdiction.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [ROLEG: ROERA-0: DULAN](roera-000-000-000-dulan/README.md)
