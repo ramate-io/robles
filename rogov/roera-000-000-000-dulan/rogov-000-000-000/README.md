@@ -32,7 +32,7 @@ The governing body SHALL additionally make decisions on the details of [Stack Me
 >
 > **[[Liam Monninger]](mailto:liam@ramate.io)**
 >
-> Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov) to the [`robles`](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
+> Currently, [Ramate LLC's](https://www.ramate.io) decision-making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov) to the [`robles`](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
 
 ## Interpretations
 We assert there is no precedence for interpretation owing to the lack of [continuity](#continuity).

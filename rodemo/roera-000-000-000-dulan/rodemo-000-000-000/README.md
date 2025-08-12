@@ -7,7 +7,9 @@
   - **[Demo](#demo)**
 
 ## Summary
+<!-- ltex: enabled=false -->
 This demo covers the usage of the Robles repository by contributors.
+<!-- ltex: enabled=true -->
 
 ## Demo
 

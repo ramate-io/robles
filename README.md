@@ -6,7 +6,7 @@
 </div>
 </br>
 
-> Robles is Ramate LLC's implementation of OAC protocols.
+> The Robles stack is Ramate LLC's implementation of OAC protocols.
 
 <h1>
   <picture>
@@ -16,7 +16,7 @@
   Robles
 </h1>
 
-Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://github.com/ramate-io/oac).
+The Robles stack is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://github.com/ramate-io/oac).
 
 <div align="center">
   <br/>
@@ -28,7 +28,10 @@ Robles is [Ramate LLC's](https://www.ramate.io) implementation of [OAC](https://
 <br/>
 
 > [!TIP]
-> For those new to Robles, we recommending following **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md)**.
+> For those new to Robles, we recommend following **[ROGUIDE-0](/roguide/roera-000-000-000-dulan/roguide-000-000-000/README.md)**.
+
+> [!NOTE]
+> The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
 
 Robles currently consists of the foundational implementations anticipated by [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md):
 
@@ -36,9 +39,6 @@ Robles currently consists of the foundational implementations anticipated by [OR
 - **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **OART-3: Collaborative** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
 - **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
 - **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **OART-4: RIS-STM**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
-
-> [!NOTE]
-> The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
 
 ## Contributing
 
@@ -61,7 +61,7 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - [`roleg`](./roleg/): Robles Legal Documents (ROLEG) are published legal documents covering Robles operations in any jurisdiction.
 - [`rocert`](./rocert/): Robles Certificates (ROCERT) certify a given project as abiding by the Robles paradigm.
 - [`rode`](./rode/): Robles Desiderata (RODE) describe wants, open problems, and similar within the Robles paradigm.
-- [`rospec`](./rospec): Robles Specifications (ROSPEC) describe specifications and are typically written in response to RODE. Generally, contributors should use ROSPEC to justify non-trivial changes to this repository.
+- [`rospec`](./rospec): Robles Specifications (ROSPEC) describe specifications and are typically written in response to RODEs. Generally, contributors should use ROSPEC to justify non-trivial changes to this repository.
 - [`roart`](./roart/): Robles Articles (ROART) are academic papers which generally add implementation-specific theoretical considerations to [OART](https://github.com/ramate-io/oac/tree/main/oart).
 - [`roroad`](./roroad/): Robles Roadmaps (ROROAD) are roadmaps describing the intents and objectives of the Robles project
 - [`rolog`](./rolog/): Robles Logs (ROLOG) are periodically submitted logs describing various developments within the Robles paradigm.
@@ -74,6 +74,9 @@ Under [ROGLO-0](./roglo/roera-000-000-000-dulan/roglo-000-000-000-artifact/READM
 - **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **OART-3: Collaborative** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
 - **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
 - **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **OART-4: RIS-STM**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
+
+### Docs
+The [`./docs`](/docs/) directory contains documentation for advanced maintenance of this repository. It describes things like pre-commit hooks and GitHub workflows.
 
 <!--ROBLES FOOTER: DO NOT REMOVE THIS LINE-->
 ---
