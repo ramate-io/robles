@@ -23,7 +23,7 @@
         "WHITESPACE_RULE",
         "EN_QUOTES",
         "CURRENCY",
-        "SENTENCE_FRAGMENT"
+        "SENTENCE_FRAGMENT [1]"
       ]
     },
     "hiddenFalsePositives": [],
