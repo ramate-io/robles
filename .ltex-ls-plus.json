@@ -22,7 +22,8 @@
         "COMMA_PARENTHESIS_WHITESPACE",
         "WHITESPACE_RULE",
         "EN_QUOTES",
-        "CURRENCY"
+        "CURRENCY",
+        "SENTENCE_FRAGMENT"
       ]
     },
     "hiddenFalsePositives": [],
